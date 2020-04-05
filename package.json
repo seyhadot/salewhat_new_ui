@@ -9,8 +9,16 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
+    "element-ui": "^2.13.0",
+    "node-sass": "^4.13.1",
+    "postcss-nested": "^4.2.1",
+    "postcss-pxtorem": "^5.1.1",
     "register-service-worker": "^1.6.2",
+    "sass-loader": "^8.0.2",
+    "tailwindcss": "^1.2.0",
     "vue": "^2.6.11",
+    "vue-click-outside": "^1.0.7",
+    "vue-media-queries": "0.0.5",
     "vue-router": "^3.1.5"
   },
   "devDependencies": {
