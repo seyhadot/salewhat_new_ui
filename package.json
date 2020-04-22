@@ -15,8 +15,10 @@
     "postcss-pxtorem": "^5.1.1",
     "register-service-worker": "^1.6.2",
     "sass-loader": "^8.0.2",
+    "swiper": "^5.3.6",
     "tailwindcss": "^1.2.0",
     "vue": "^2.6.11",
+    "vue-awesome-swiper": "^4.1.0",
     "vue-click-outside": "^1.0.7",
     "vue-media-queries": "0.0.5",
     "vue-router": "^3.1.5"

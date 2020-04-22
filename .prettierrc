@@ -1,6 +1,6 @@
 {
   "parser": "vue",
-  "trailingComma": "es5",
+  "trailingComma": false,
   "semi": false,
   "singleQuote": true,
   "tabWidth": 2,

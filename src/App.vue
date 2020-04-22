@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <div class="flex flex-row sh_control">
-<!--      <Header />-->
-<!--      <Sidebar />-->
+      <!-- <Header /> -->
+      <!-- <Sidebar /> -->
       <router-view></router-view>
     </div>
   </div>
@@ -82,6 +82,6 @@ body {
   background-color: var(--bg);
 }
 ::-webkit-scrollbar {
-  display:none;
+  display: none;
 }
 </style>
